@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>FlightDesc</name>
+   <tag></tag>
+   <elementGuidId>e3e741aa-5af6-4845-9830-725691665259</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@class = 'FlightScheduleAircraftTypeDetails']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@class='FlightScheduleResultTable']/tbody/tr[@class='FlightScheduleResultInfo'][${i}]/td[1]/table/tbody/tr[2]/td[2]/div/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>be64ba75-162e-485e-87f1-c4a25a2f19fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>FlightScheduleAircraftTypeDetails</value>
+      <webElementGuid>084751f2-2a6e-4544-bf5a-ad77c2898b12</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

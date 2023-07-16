@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>6 - Search on Flight Schedule (Incorrectly)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bb3ccbc9-0053-4af1-86b8-021b5ecbddcf</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>62b3848f-1bfd-4ad1-abc3-3de53f01398a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f58cb534-e587-4bb6-8b2f-95fd693e1ed3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>23ddadf8-1359-4cce-bac3-8aba59cc2b74</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>62b3848f-1bfd-4ad1-abc3-3de53f01398a</id>
+      <masked>false</masked>
+      <name>origin</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f58cb534-e587-4bb6-8b2f-95fd693e1ed3</id>
+      <masked>false</masked>
+      <name>destination</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>23ddadf8-1359-4cce-bac3-8aba59cc2b74</id>
+      <masked>false</masked>
+      <name>date</name>
+   </variable>
+</TestCaseEntity>

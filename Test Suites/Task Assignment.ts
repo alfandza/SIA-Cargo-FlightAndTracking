@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Task Assignment</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>5</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>c5940914-ed18-47c6-a816-0136bffe609f</testSuiteGuid>
+   <testCaseLink>
+      <guid>ed4f0b68-82b3-45be-9ea4-49789c0b8895</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Task Assignment/01 - Click on Tracking and verify content (Hover menu E-SERVICES)</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>35288972-b000-4272-813f-f5cef02d342c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Task Assignment/02 - Search on Flight Schedule (in Hover menu E-SERVICES)</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>1ccf5bdf-0c0a-4d03-b287-90673e1669df</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Flight Schedule Data</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>1ccf5bdf-0c0a-4d03-b287-90673e1669df</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>origin</value>
+         <variableId>6d4df758-4333-419d-b087-be1372a0238a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>1ccf5bdf-0c0a-4d03-b287-90673e1669df</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>destination</value>
+         <variableId>576004b0-9899-4b41-b9cd-a8ba0bc207ac</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>1ccf5bdf-0c0a-4d03-b287-90673e1669df</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>date</value>
+         <variableId>8e0479bb-161b-417a-b575-5a6ae4693b30</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>1ccf5bdf-0c0a-4d03-b287-90673e1669df</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>month</value>
+         <variableId>1984974b-8d02-4642-8bc5-cd5d63355730</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>1ccf5bdf-0c0a-4d03-b287-90673e1669df</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>year</value>
+         <variableId>7f596ade-e31b-47f6-b588-0a40fe372e8b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>1ccf5bdf-0c0a-4d03-b287-90673e1669df</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>flightNumber</value>
+         <variableId>66141812-d83c-49f7-a4be-c58de57d886d</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Choose Year</name>
+   <tag></tag>
+   <elementGuidId>60866bf6-0731-48cd-8ac6-b292eb70e56f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class = 'react-datepicker__year-option' and (text() = '${year}' or . = '${year}')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>da066785-6d51-4a19-b8dd-2522ee070d26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>react-datepicker__year-option</value>
+      <webElementGuid>306e8233-d731-48ff-9f27-5474269c1943</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>${year}</value>
+      <webElementGuid>7b9f5fce-fe01-44ff-bae8-136ef04aeafa</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,27 @@
+{
+  "keywordFileContentHash": "F5D9F252753FA054FE237BF2566DE95D",
+  "keywordClasses": [
+    {
+      "name": "siacargo.siacargokeyword",
+      "keywordMethods": [
+        {
+          "name": "urlNavigation",
+          "parameters": []
+        },
+        {
+          "name": "hoverEService",
+          "parameters": []
+        },
+        {
+          "name": "clickTrackingPage",
+          "parameters": []
+        },
+        {
+          "name": "clickFlightSchedulePage",
+          "parameters": []
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}
